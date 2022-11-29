@@ -1,11 +1,8 @@
-# movieapp [![Paypal Donate](https://img.shields.io/badge/paypal-donate-green.svg?style=flat)](https://www.paypal.me/junedomingo)
+# movieapp
 Discover Movies and TV shows
 
 
 ![movieapp-screenshots_big_iphone_](https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png)
-
-### Download APK file
- - [Download from Google Drive - v2.2.1](https://bit.ly/3nWFZLX)
 
 ### What's included
 | Name             | Description   |
@@ -23,12 +20,6 @@ Discover Movies and TV shows
 ### Installation
 
 Clone this repo
-
-```sh
-$ git clone git@github.com:JuneDomingo/movieapp.git
-$ cd movieapp
-$ yarn install or npm install
-```
 
 Create `.env` file in your root directory and add the following
 
@@ -50,15 +41,3 @@ Get api key -
 $ react-native run-android
 $ react-native run-ios
 ```
-
-
-### Exponent/ex-navigation version
-Brent Vatne did awesome work to make this run on exponent, checkout his [repo](https://github.com/brentvatne/movieapp)
-- [Open this app in exponent](https://getexponent.com/@community/movieapp)
-
-
-
-### How to rename react native app?
-[react-native-rename](https://github.com/JuneDomingo/react-native-rename) - Rename react-native app with just one command
-
-<a href="https://www.buymeacoffee.com/junedomingo"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
